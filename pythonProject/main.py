@@ -15,8 +15,6 @@ def can_see_stage(matrix):
                         print(seeStage)
                         return False
 
-    print(seeStage)
-    return seeStage
 
 
 
